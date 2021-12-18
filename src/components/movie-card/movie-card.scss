@@ -1,0 +1,16 @@
+.movieContainer {
+  display: inline-block;
+  padding-top: 20%;
+  padding-bottom: 10%;
+}
+
+.movieCard {
+  margin: 10px;
+  background-color: #cb4c4f !important;
+}
+
+.cardImage {
+  width: 100% !important;
+  height: 300px !important;
+  object-fit: cover;
+}

@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+.loginContainer {
+  width: 100%;
+}
+
+.loginCard {
+  background-color: #d2232a !important;
+  color: #411314;
+  max-width: 400px;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.loginButton {
+  margin-left: 64%;
+}
+
+@media only screen and (min-width: 321px) {
+  .login-container {
+    max-width: 100%;
+  }
+}

@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+.main-view {
+  font-family: "Fira Sans", sans-serif;
+  width: 100%;
+  display: inline-block;
+}
+
+.bg-navColor {
+  background: #000;
+}
+
+.body {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.movie-cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.body {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
